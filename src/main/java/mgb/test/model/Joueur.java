@@ -1,4 +1,4 @@
-package main.java.mgb.test.model;
+package mgb.test.model;
 
 public class Joueur extends Humain {
 
